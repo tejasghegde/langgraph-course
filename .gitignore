@@ -13,6 +13,9 @@ __pycache__/
 # .env file
 .env
 
+# .langgraph_api folders
+.langgraph_api/
+
 # Distribution / packaging
 .Python
 build/
